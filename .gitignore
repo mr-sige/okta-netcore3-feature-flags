@@ -1,0 +1,6 @@
+/dist
+/build
+/tools
+*/bin
+*/obj
+.vs
