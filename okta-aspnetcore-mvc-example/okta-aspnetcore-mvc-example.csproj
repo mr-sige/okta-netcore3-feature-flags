@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="ConfigCat.Client" Version="6.1.0" />
     <PackageReference Include="Okta.AspNetCore" Version="3.1.0" />
   </ItemGroup>
 
